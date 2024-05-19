@@ -1,2 +1,11 @@
 # js-lab-40
 ### Lab40 Loop: Lab1
+เลขที่ถูก alert เป็นลำดับสุดท้ายคือเลขอะไร
+
+let i = 3;
+
+while (i) {
+  alert( i-- );
+}
+
+# refer to power point javascript basic part2
